@@ -1,7 +1,7 @@
 # minirt
 My 42 project miniRT, group project with @sdummett
 
-`make bonus`.
+`make bonus`
 
 `./miniRT scenes/{scene}.rt`
 
