@@ -1,8 +1,7 @@
 # minirt
 My 42 project miniRT, group project with @sdummett
 
-Deploy full features with `make bonus`.
-
+`make bonus`.
 `./miniRT scenes/{scene}.rt`
 
 This is a miniraytracer.
