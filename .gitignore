@@ -1,7 +1,0 @@
-miniRT
-*.swp
-minirt
-*.o
-*.a
-vgcore.*
-.vscode
